@@ -16,4 +16,5 @@ First beta release.
   fragmentation under non-trivial UV unwrapping.
 - Material labels are heuristic (detected from visual cues + keywords); treat
   as approximate.
-- Object real-world scale is best-effort.
+- Real-world dimensions (`dimensions_cm` in metadata) are provided for 92/100
+  items; 8 items lack source dimension data.

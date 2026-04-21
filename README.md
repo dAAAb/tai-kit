@@ -33,7 +33,7 @@ collection. Expect rough edges.
 | Items | 100 |
 | Categories | 24 |
 | Format | glTF 2.0 binary (`.glb`) with embedded PBR textures |
-| Total size | ~220 MB |
+| Total size | ~810 MB |
 | Languages | English, Traditional Chinese |
 | License | MIT |
 
@@ -99,14 +99,17 @@ Each entry in `metadata.json`:
   "format": "glb",
   "version": "0.1.0",
   "extent_m": [0.245, 0.182, 0.245],
-  "face_count": 18234
+  "face_count": 18234,
+  "dimensions_cm": [14.5, 7.0]
 }
 ```
 
 - `category` — one of 24 functional categories (see [`docs/USAGE.md`](docs/USAGE.md))
 - `tags` — free-form, always includes `category` and `material` when detected
-- `extent_m` — axis-aligned bounding box in meters (approximate, reconstruction frame)
+- `extent_m` — axis-aligned bounding box in meters (reconstruction frame, normalized)
 - `face_count` — triangle count in the mesh
+- `dimensions_cm` — best-effort real-world dimensions from the source catalog, in cm
+  (2–3 values, typically `[diameter, height]` or `[width, depth, height]`; present for ~92% of items)
 
 ---
 
