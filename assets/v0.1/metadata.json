@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "tk_0001",
+    "name_en": "Spoon",
+    "name_zh": "湯匙",
+    "category": "spoon",
+    "tags": [
+      "spoon"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.127,
+      0.209
+    ],
+    "face_count": 199882
+  },
+  {
+    "id": "tk_0002",
+    "name_en": "Ceramic Bowl",
+    "name_zh": "陶瓷碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.144,
+      0.274
+    ],
+    "face_count": 195850
+  },
+  {
+    "id": "tk_0003",
+    "name_en": "Cart",
+    "name_zh": "推車",
+    "category": "cart",
+    "tags": [
+      "cart"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.627,
+      1.001,
+      0.394
+    ],
+    "face_count": 193802
+  },
+  {
+    "id": "tk_0004",
+    "name_en": "Korean-style Ceramic Plate",
+    "name_zh": "韓式陶瓷盤",
+    "category": "plate",
+    "tags": [
+      "plate",
+      "ceramic",
+      "korean"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.123,
+      0.274
+    ],
+    "face_count": 188316
+  },
+  {
+    "id": "tk_0005",
+    "name_en": "Japanese-style Stainless Steel Spoon",
+    "name_zh": "日式不鏽鋼湯匙",
+    "category": "spoon",
+    "tags": [
+      "spoon",
+      "stainless_steel",
+      "japanese"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.199,
+      0.202,
+      1.002
+    ],
+    "face_count": 188330
+  },
+  {
+    "id": "tk_0006",
+    "name_en": "Ceramic Bottle",
+    "name_zh": "陶瓷瓶",
+    "category": "bottle",
+    "tags": [
+      "bottle",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.375,
+      0.242,
+      0.068
+    ],
+    "face_count": 46063
+  },
+  {
+    "id": "tk_0007",
+    "name_en": "Stainless Steel Cup",
+    "name_zh": "不鏽鋼杯",
+    "category": "cup",
+    "tags": [
+      "cup",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.737,
+      0.853,
+      1.001
+    ],
+    "face_count": 199556
+  },
+  {
+    "id": "tk_0008",
+    "name_en": "Ceramic Cup",
+    "name_zh": "陶瓷杯",
+    "category": "cup",
+    "tags": [
+      "cup",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.466,
+      0.999
+    ],
+    "face_count": 190689
+  },
+  {
+    "id": "tk_0009",
+    "name_en": "Ceramic Bowl",
+    "name_zh": "陶瓷碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.681,
+      1.001
+    ],
+    "face_count": 190444
+  },
+  {
+    "id": "tk_0010",
+    "name_en": "Stainless Steel Tongs",
+    "name_zh": "不鏽鋼夾",
+    "category": "tongs",
+    "tags": [
+      "tongs",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.243,
+      0.36
+    ],
+    "face_count": 186765
+  },
+  {
+    "id": "tk_0011",
+    "name_en": "Black Melamine Bowl",
+    "name_zh": "黑色美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine",
+      "black"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.99,
+      0.42,
+      1.001
+    ],
+    "face_count": 188164
+  },
+  {
+    "id": "tk_0012",
+    "name_en": "Aluminum Basket",
+    "name_zh": "鋁籃",
+    "category": "basket",
+    "tags": [
+      "basket",
+      "aluminum"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.354,
+      0.134,
+      0.437
+    ],
+    "face_count": 88005
+  },
+  {
+    "id": "tk_0013",
+    "name_en": "Melamine Plate",
+    "name_zh": "美耐皿盤",
+    "category": "plate",
+    "tags": [
+      "plate",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.121,
+      0.329
+    ],
+    "face_count": 199432
+  },
+  {
+    "id": "tk_0014",
+    "name_en": "Ceramic Cup",
+    "name_zh": "陶瓷杯",
+    "category": "cup",
+    "tags": [
+      "cup",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.998,
+      1.002,
+      0.998
+    ],
+    "face_count": 192365
+  },
+  {
+    "id": "tk_0015",
+    "name_en": "Gray Plastic Cup",
+    "name_zh": "灰色塑膠杯",
+    "category": "cup",
+    "tags": [
+      "cup",
+      "plastic",
+      "gray"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.423,
+      1.001
+    ],
+    "face_count": 191758
+  },
+  {
+    "id": "tk_0016",
+    "name_en": "Black Melamine Bowl",
+    "name_zh": "黑色美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine",
+      "black"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.533,
+      0.621,
+      0.783
+    ],
+    "face_count": 196442
+  },
+  {
+    "id": "tk_0017",
+    "name_en": "Ceramic Bowl",
+    "name_zh": "陶瓷碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.995,
+      0.391,
+      1.001
+    ],
+    "face_count": 191981
+  },
+  {
+    "id": "tk_0018",
+    "name_en": "Black Ceramic Bowl",
+    "name_zh": "黑色陶瓷碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "ceramic",
+      "black"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.664,
+      1.001
+    ],
+    "face_count": 195724
+  },
+  {
+    "id": "tk_0019",
+    "name_en": "Black Cart",
+    "name_zh": "黑色推車",
+    "category": "cart",
+    "tags": [
+      "cart",
+      "black"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.477,
+      1.0,
+      0.787
+    ],
+    "face_count": 197392
+  },
+  {
+    "id": "tk_0020",
+    "name_en": "Plastic Jar",
+    "name_zh": "塑膠調味罐",
+    "category": "jar",
+    "tags": [
+      "jar",
+      "plastic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.438,
+      0.58
+    ],
+    "face_count": 192071
+  },
+  {
+    "id": "tk_0021",
+    "name_en": "Gray Ceramic Cup",
+    "name_zh": "灰色陶瓷杯",
+    "category": "cup",
+    "tags": [
+      "cup",
+      "ceramic",
+      "gray"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.772,
+      0.659,
+      1.001
+    ],
+    "face_count": 193465
+  },
+  {
+    "id": "tk_0022",
+    "name_en": "Melamine Chopsticks",
+    "name_zh": "美耐皿筷",
+    "category": "chopstick",
+    "tags": [
+      "chopstick",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.134,
+      0.293
+    ],
+    "face_count": 195968
+  },
+  {
+    "id": "tk_0023",
+    "name_en": "Green Melamine Bowl",
+    "name_zh": "綠色美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine",
+      "green"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.999,
+      0.488,
+      1.001
+    ],
+    "face_count": 189781
+  },
+  {
+    "id": "tk_0024",
+    "name_en": "Ceramic Container",
+    "name_zh": "陶瓷保鮮盒",
+    "category": "container",
+    "tags": [
+      "container",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.238,
+      0.382
+    ],
+    "face_count": 189426
+  },
+  {
+    "id": "tk_0025",
+    "name_en": "Yellow Melamine Cup",
+    "name_zh": "黃色美耐皿杯",
+    "category": "cup",
+    "tags": [
+      "cup",
+      "melamine",
+      "yellow"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.501,
+      1.001
+    ],
+    "face_count": 193001
+  },
+  {
+    "id": "tk_0026",
+    "name_en": "Stainless Steel Fork",
+    "name_zh": "不鏽鋼叉",
+    "category": "fork",
+    "tags": [
+      "fork",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.165,
+      0.105,
+      1.001
+    ],
+    "face_count": 189402
+  },
+  {
+    "id": "tk_0027",
+    "name_en": "Plastic Ladle",
+    "name_zh": "塑膠杓",
+    "category": "ladle",
+    "tags": [
+      "ladle",
+      "plastic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.11,
+      0.112
+    ],
+    "face_count": 191394
+  },
+  {
+    "id": "tk_0028",
+    "name_en": "Ceramic Cup",
+    "name_zh": "陶瓷杯",
+    "category": "cup",
+    "tags": [
+      "cup",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.317,
+      0.178,
+      0.251
+    ],
+    "face_count": 55836
+  },
+  {
+    "id": "tk_0029",
+    "name_en": "Melamine Cup",
+    "name_zh": "美耐皿杯",
+    "category": "cup",
+    "tags": [
+      "cup",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.593,
+      1.001
+    ],
+    "face_count": 185500
+  },
+  {
+    "id": "tk_0030",
+    "name_en": "Melamine Bowl",
+    "name_zh": "美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.421,
+      1.0
+    ],
+    "face_count": 195899
+  },
+  {
+    "id": "tk_0031",
+    "name_en": "White Melamine Plate",
+    "name_zh": "白色美耐皿盤",
+    "category": "plate",
+    "tags": [
+      "plate",
+      "melamine",
+      "white"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.283,
+      0.11,
+      0.283
+    ],
+    "face_count": 41342
+  },
+  {
+    "id": "tk_0032",
+    "name_en": "Stainless Steel Steamer Insert",
+    "name_zh": "不鏽鋼蒸筒",
+    "category": "steamer_insert",
+    "tags": [
+      "steamer_insert",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.456,
+      1.001
+    ],
+    "face_count": 184378
+  },
+  {
+    "id": "tk_0033",
+    "name_en": "White Wooden Spatula",
+    "name_zh": "白色木製鍋鏟",
+    "category": "spatula",
+    "tags": [
+      "spatula",
+      "wood",
+      "white"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.138,
+      0.216
+    ],
+    "face_count": 198826
+  },
+  {
+    "id": "tk_0034",
+    "name_en": "Black Melamine Bowl",
+    "name_zh": "黑色美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine",
+      "black"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.999,
+      0.473,
+      0.984
+    ],
+    "face_count": 196811
+  },
+  {
+    "id": "tk_0035",
+    "name_en": "Stainless Steel Ladle",
+    "name_zh": "不鏽鋼杓",
+    "category": "ladle",
+    "tags": [
+      "ladle",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.324,
+      0.134,
+      1.002
+    ],
+    "face_count": 191147
+  },
+  {
+    "id": "tk_0036",
+    "name_en": "Ceramic Jar",
+    "name_zh": "陶瓷調味罐",
+    "category": "jar",
+    "tags": [
+      "jar",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.418,
+      0.774
+    ],
+    "face_count": 189226
+  },
+  {
+    "id": "tk_0037",
+    "name_en": "Melamine Spoon",
+    "name_zh": "美耐皿湯匙",
+    "category": "spoon",
+    "tags": [
+      "spoon",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.102,
+      0.127
+    ],
+    "face_count": 188348
+  },
+  {
+    "id": "tk_0038",
+    "name_en": "Ceramic Container",
+    "name_zh": "陶瓷保鮮盒",
+    "category": "container",
+    "tags": [
+      "container",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.411,
+      0.681
+    ],
+    "face_count": 194257
+  },
+  {
+    "id": "tk_0039",
+    "name_en": "Lid",
+    "name_zh": "蓋",
+    "category": "lid",
+    "tags": [
+      "lid"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.407,
+      0.991
+    ],
+    "face_count": 193320
+  },
+  {
+    "id": "tk_0040",
+    "name_en": "Red Ceramic Bowl",
+    "name_zh": "紅色陶瓷碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "ceramic",
+      "red"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.476,
+      0.468,
+      1.0
+    ],
+    "face_count": 193658
+  },
+  {
+    "id": "tk_0041",
+    "name_en": "Scrubber",
+    "name_zh": "菜瓜布",
+    "category": "scrubber",
+    "tags": [
+      "scrubber"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.719,
+      0.266,
+      1.001
+    ],
+    "face_count": 195116
+  },
+  {
+    "id": "tk_0042",
+    "name_en": "Stainless Steel Whisk",
+    "name_zh": "不鏽鋼打蛋器",
+    "category": "whisk",
+    "tags": [
+      "whisk",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.167,
+      0.154,
+      1.001
+    ],
+    "face_count": 197604
+  },
+  {
+    "id": "tk_0043",
+    "name_en": "Scrubber",
+    "name_zh": "菜瓜布",
+    "category": "scrubber",
+    "tags": [
+      "scrubber"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.997,
+      0.455,
+      0.978
+    ],
+    "face_count": 189798
+  },
+  {
+    "id": "tk_0044",
+    "name_en": "Glass Cup",
+    "name_zh": "玻璃杯",
+    "category": "cup",
+    "tags": [
+      "cup",
+      "glass"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.278,
+      0.266,
+      0.188
+    ],
+    "face_count": 104703
+  },
+  {
+    "id": "tk_0045",
+    "name_en": "Wooden Honey Dipper",
+    "name_zh": "木製蜂蜜棒",
+    "category": "honey_dipper",
+    "tags": [
+      "honey_dipper",
+      "wood"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.104,
+      0.101
+    ],
+    "face_count": 191532
+  },
+  {
+    "id": "tk_0046",
+    "name_en": "Pot",
+    "name_zh": "鍋",
+    "category": "cookware",
+    "tags": [
+      "cookware"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.448,
+      0.079,
+      0.221
+    ],
+    "face_count": 52684
+  },
+  {
+    "id": "tk_0047",
+    "name_en": "Stainless Steel Pot",
+    "name_zh": "不鏽鋼鍋",
+    "category": "cookware",
+    "tags": [
+      "cookware",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.948,
+      0.463,
+      1.002
+    ],
+    "face_count": 193319
+  },
+  {
+    "id": "tk_0048",
+    "name_en": "Ceramic Pot",
+    "name_zh": "陶瓷鍋",
+    "category": "cookware",
+    "tags": [
+      "cookware",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.594,
+      0.252,
+      1.001
+    ],
+    "face_count": 197938
+  },
+  {
+    "id": "tk_0049",
+    "name_en": "Green Melamine Bowl",
+    "name_zh": "綠色美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine",
+      "green"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.515,
+      1.001
+    ],
+    "face_count": 199014
+  },
+  {
+    "id": "tk_0050",
+    "name_en": "Stainless Steel Pot",
+    "name_zh": "不鏽鋼鍋",
+    "category": "cookware",
+    "tags": [
+      "cookware",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.172,
+      0.037
+    ],
+    "face_count": 191110
+  },
+  {
+    "id": "tk_0051",
+    "name_en": "Ceramic Bowl",
+    "name_zh": "陶瓷碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.314,
+      0.218,
+      0.314
+    ],
+    "face_count": 198330
+  },
+  {
+    "id": "tk_0052",
+    "name_en": "Glass Pitcher",
+    "name_zh": "玻璃茶壺",
+    "category": "pitcher",
+    "tags": [
+      "pitcher",
+      "glass"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.619,
+      0.992
+    ],
+    "face_count": 196194
+  },
+  {
+    "id": "tk_0053",
+    "name_en": "Stainless Steel Steamer Insert",
+    "name_zh": "不鏽鋼蒸筒",
+    "category": "steamer_insert",
+    "tags": [
+      "steamer_insert",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.469,
+      1.001
+    ],
+    "face_count": 190439
+  },
+  {
+    "id": "tk_0054",
+    "name_en": "Melamine Bowl",
+    "name_zh": "美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.511,
+      0.982
+    ],
+    "face_count": 195567
+  },
+  {
+    "id": "tk_0055",
+    "name_en": "Ceramic Pitcher",
+    "name_zh": "陶瓷茶壺",
+    "category": "pitcher",
+    "tags": [
+      "pitcher",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.323,
+      0.216,
+      0.212
+    ],
+    "face_count": 61228
+  },
+  {
+    "id": "tk_0056",
+    "name_en": "Stainless Steel Pot",
+    "name_zh": "不鏽鋼鍋",
+    "category": "cookware",
+    "tags": [
+      "cookware",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.993,
+      0.911,
+      0.991
+    ],
+    "face_count": 188412
+  },
+  {
+    "id": "tk_0057",
+    "name_en": "Melamine Bowl",
+    "name_zh": "美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.527,
+      1.001
+    ],
+    "face_count": 199696
+  },
+  {
+    "id": "tk_0058",
+    "name_en": "Japanese-style Black Melamine Bowl",
+    "name_zh": "和風黑色美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine",
+      "black",
+      "japanese"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.451,
+      0.997
+    ],
+    "face_count": 189587
+  },
+  {
+    "id": "tk_0059",
+    "name_en": "Plastic Cup",
+    "name_zh": "塑膠杯",
+    "category": "cup",
+    "tags": [
+      "cup",
+      "plastic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.245,
+      0.292,
+      0.391
+    ],
+    "face_count": 129154
+  },
+  {
+    "id": "tk_0060",
+    "name_en": "Black Melamine Bowl",
+    "name_zh": "黑色美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine",
+      "black"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.998,
+      0.394,
+      1.0
+    ],
+    "face_count": 198097
+  },
+  {
+    "id": "tk_0061",
+    "name_en": "Stainless Steel Strainer",
+    "name_zh": "不鏽鋼濾網",
+    "category": "strainer",
+    "tags": [
+      "strainer",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.196,
+      0.339
+    ],
+    "face_count": 199734
+  },
+  {
+    "id": "tk_0062",
+    "name_en": "Melamine Spoon",
+    "name_zh": "美耐皿湯匙",
+    "category": "spoon",
+    "tags": [
+      "spoon",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.112,
+      0.153
+    ],
+    "face_count": 193412
+  },
+  {
+    "id": "tk_0063",
+    "name_en": "Melamine Plate",
+    "name_zh": "美耐皿盤",
+    "category": "plate",
+    "tags": [
+      "plate",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.157,
+      0.402,
+      0.319
+    ],
+    "face_count": 196000
+  },
+  {
+    "id": "tk_0064",
+    "name_en": "Melamine Bowl",
+    "name_zh": "美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.321,
+      0.164,
+      0.336
+    ],
+    "face_count": 50338
+  },
+  {
+    "id": "tk_0065",
+    "name_en": "Kitchen Torch",
+    "name_zh": "噴火槍",
+    "category": "torch",
+    "tags": [
+      "torch"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.198,
+      0.339
+    ],
+    "face_count": 188310
+  },
+  {
+    "id": "tk_0066",
+    "name_en": "Brown Plastic Cup",
+    "name_zh": "咖啡色塑膠杯",
+    "category": "cup",
+    "tags": [
+      "cup",
+      "plastic",
+      "brown"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.563,
+      1.002,
+      0.565
+    ],
+    "face_count": 189192
+  },
+  {
+    "id": "tk_0067",
+    "name_en": "Stainless Steel Funnel",
+    "name_zh": "不鏽鋼漏斗",
+    "category": "funnel",
+    "tags": [
+      "funnel",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.235,
+      1.002,
+      0.235
+    ],
+    "face_count": 193277
+  },
+  {
+    "id": "tk_0068",
+    "name_en": "Ceramic Bowl",
+    "name_zh": "陶瓷碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.357,
+      0.17,
+      1.0
+    ],
+    "face_count": 191126
+  },
+  {
+    "id": "tk_0069",
+    "name_en": "White Melamine Ladle",
+    "name_zh": "白色美耐皿杓",
+    "category": "ladle",
+    "tags": [
+      "ladle",
+      "melamine",
+      "white"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.118,
+      0.232
+    ],
+    "face_count": 186740
+  },
+  {
+    "id": "tk_0070",
+    "name_en": "Aluminum Pot",
+    "name_zh": "鋁鍋",
+    "category": "cookware",
+    "tags": [
+      "cookware",
+      "aluminum"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.847,
+      0.914
+    ],
+    "face_count": 189216
+  },
+  {
+    "id": "tk_0071",
+    "name_en": "Ceramic Plate",
+    "name_zh": "陶瓷盤",
+    "category": "plate",
+    "tags": [
+      "plate",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.113,
+      0.303
+    ],
+    "face_count": 185994
+  },
+  {
+    "id": "tk_0072",
+    "name_en": "Stainless Steel Bowl",
+    "name_zh": "不鏽鋼碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.444,
+      1.0
+    ],
+    "face_count": 190801
+  },
+  {
+    "id": "tk_0073",
+    "name_en": "Stainless Steel Spoon",
+    "name_zh": "不鏽鋼湯匙",
+    "category": "spoon",
+    "tags": [
+      "spoon",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.188,
+      0.253
+    ],
+    "face_count": 186954
+  },
+  {
+    "id": "tk_0074",
+    "name_en": "Green Melamine Plate",
+    "name_zh": "綠色美耐皿盤",
+    "category": "plate",
+    "tags": [
+      "plate",
+      "melamine",
+      "green"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.367,
+      0.996
+    ],
+    "face_count": 198166
+  },
+  {
+    "id": "tk_0075",
+    "name_en": "Ceramic Jar",
+    "name_zh": "陶瓷調味罐",
+    "category": "jar",
+    "tags": [
+      "jar",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.242,
+      0.209,
+      0.24
+    ],
+    "face_count": 65085
+  },
+  {
+    "id": "tk_0076",
+    "name_en": "Ceramic Bowl",
+    "name_zh": "陶瓷碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.461,
+      1.0
+    ],
+    "face_count": 191368
+  },
+  {
+    "id": "tk_0077",
+    "name_en": "Cart",
+    "name_zh": "推車",
+    "category": "cart",
+    "tags": [
+      "cart"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.451,
+      0.745
+    ],
+    "face_count": 189710
+  },
+  {
+    "id": "tk_0078",
+    "name_en": "Melamine Plate",
+    "name_zh": "美耐皿盤",
+    "category": "plate",
+    "tags": [
+      "plate",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.278,
+      0.223,
+      0.343
+    ],
+    "face_count": 87859
+  },
+  {
+    "id": "tk_0079",
+    "name_en": "Melamine Spoon",
+    "name_zh": "美耐皿湯匙",
+    "category": "spoon",
+    "tags": [
+      "spoon",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.131,
+      0.251
+    ],
+    "face_count": 186416
+  },
+  {
+    "id": "tk_0080",
+    "name_en": "Ceramic Bowl",
+    "name_zh": "陶瓷碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.98,
+      1.0
+    ],
+    "face_count": 189942
+  },
+  {
+    "id": "tk_0081",
+    "name_en": "Ceramic Pitcher",
+    "name_zh": "陶瓷茶壺",
+    "category": "pitcher",
+    "tags": [
+      "pitcher",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.729,
+      1.002,
+      0.804
+    ],
+    "face_count": 197616
+  },
+  {
+    "id": "tk_0082",
+    "name_en": "Melamine Bowl",
+    "name_zh": "美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.457,
+      0.997
+    ],
+    "face_count": 187644
+  },
+  {
+    "id": "tk_0083",
+    "name_en": "Blue Plastic Cup",
+    "name_zh": "藍色塑膠杯",
+    "category": "cup",
+    "tags": [
+      "cup",
+      "plastic",
+      "blue"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.627,
+      1.002,
+      0.627
+    ],
+    "face_count": 190111
+  },
+  {
+    "id": "tk_0084",
+    "name_en": "Melamine Bowl",
+    "name_zh": "美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.296,
+      0.118,
+      0.314
+    ],
+    "face_count": 44653
+  },
+  {
+    "id": "tk_0085",
+    "name_en": "White Melamine Chopsticks",
+    "name_zh": "白色美耐皿筷",
+    "category": "chopstick",
+    "tags": [
+      "chopstick",
+      "melamine",
+      "white"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.149,
+      0.365
+    ],
+    "face_count": 188294
+  },
+  {
+    "id": "tk_0086",
+    "name_en": "Pot",
+    "name_zh": "鍋",
+    "category": "cookware",
+    "tags": [
+      "cookware"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.231,
+      0.281,
+      0.314
+    ],
+    "face_count": 68068
+  },
+  {
+    "id": "tk_0087",
+    "name_en": "Stainless Steel Spoon",
+    "name_zh": "不鏽鋼湯匙",
+    "category": "spoon",
+    "tags": [
+      "spoon",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.106,
+      0.136
+    ],
+    "face_count": 191398
+  },
+  {
+    "id": "tk_0088",
+    "name_en": "Bamboo Spoon",
+    "name_zh": "竹製湯匙",
+    "category": "spoon",
+    "tags": [
+      "spoon",
+      "bamboo"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.139,
+      0.05,
+      1.002
+    ],
+    "face_count": 197774
+  },
+  {
+    "id": "tk_0089",
+    "name_en": "Black Melamine Bowl",
+    "name_zh": "黑色美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine",
+      "black"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.741,
+      0.429,
+      1.001
+    ],
+    "face_count": 191378
+  },
+  {
+    "id": "tk_0090",
+    "name_en": "Ceramic Bowl",
+    "name_zh": "陶瓷碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.0,
+      0.388,
+      0.987
+    ],
+    "face_count": 189994
+  },
+  {
+    "id": "tk_0091",
+    "name_en": "White Melamine Bowl",
+    "name_zh": "白色美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine",
+      "white"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.565,
+      0.909
+    ],
+    "face_count": 188582
+  },
+  {
+    "id": "tk_0092",
+    "name_en": "Green Plastic Ladle",
+    "name_zh": "綠色塑膠杓",
+    "category": "ladle",
+    "tags": [
+      "ladle",
+      "plastic",
+      "green"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.245,
+      0.237,
+      1.002
+    ],
+    "face_count": 185287
+  },
+  {
+    "id": "tk_0093",
+    "name_en": "Stainless Steel Basket",
+    "name_zh": "不鏽鋼籃",
+    "category": "basket",
+    "tags": [
+      "basket",
+      "stainless_steel"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.988,
+      0.854,
+      1.001
+    ],
+    "face_count": 191784
+  },
+  {
+    "id": "tk_0094",
+    "name_en": "Ceramic Kettle",
+    "name_zh": "陶瓷水壺",
+    "category": "kettle",
+    "tags": [
+      "kettle",
+      "ceramic"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.789,
+      0.754
+    ],
+    "face_count": 189703
+  },
+  {
+    "id": "tk_0095",
+    "name_en": "Melamine Bowl",
+    "name_zh": "美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.484,
+      1.002
+    ],
+    "face_count": 192968
+  },
+  {
+    "id": "tk_0096",
+    "name_en": "Japanese-style Melamine Bowl",
+    "name_zh": "和風美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine",
+      "japanese"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.421,
+      1.001
+    ],
+    "face_count": 190512
+  },
+  {
+    "id": "tk_0097",
+    "name_en": "Melamine Bowl",
+    "name_zh": "美耐皿碗",
+    "category": "bowl",
+    "tags": [
+      "bowl",
+      "melamine"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.002,
+      0.442,
+      0.998
+    ],
+    "face_count": 190852
+  },
+  {
+    "id": "tk_0098",
+    "name_en": "Black Ceramic Kettle",
+    "name_zh": "黑色陶瓷水壺",
+    "category": "kettle",
+    "tags": [
+      "kettle",
+      "ceramic",
+      "black"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.289,
+      0.266,
+      0.395
+    ],
+    "face_count": 115960
+  },
+  {
+    "id": "tk_0099",
+    "name_en": "Black Melamine Plate",
+    "name_zh": "黑色美耐皿盤",
+    "category": "plate",
+    "tags": [
+      "plate",
+      "melamine",
+      "black"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      1.001,
+      0.374,
+      1.001
+    ],
+    "face_count": 199600
+  },
+  {
+    "id": "tk_0100",
+    "name_en": "Black Melamine Plate",
+    "name_zh": "黑色美耐皿盤",
+    "category": "plate",
+    "tags": [
+      "plate",
+      "melamine",
+      "black"
+    ],
+    "format": "glb",
+    "version": "0.1.0",
+    "extent_m": [
+      0.911,
+      0.34,
+      0.855
+    ],
+    "face_count": 186920
+  }
+]

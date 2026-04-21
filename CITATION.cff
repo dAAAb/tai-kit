@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use TAI KIT in academic work, please cite it as below."
+title: "TAI KIT: AI-Reconstructed Taiwanese Kitchen Objects"
+version: "0.1.0"
+date-released: "2026-04-21"
+license: MIT
+type: dataset
+abstract: >-
+  TAI KIT is an open 3D model collection of Taiwanese-style everyday kitchen
+  objects, reconstructed from single-view photography using image-to-3D
+  generative models. The v0.1 beta release contains 100 selected items across
+  24 functional categories.
+authors:
+  - name: "TAI KIT contributors"
+keywords:
+  - 3D
+  - kitchen
+  - Taiwan
+  - mesh
+  - glb
+  - image-to-3D
+  - photogrammetry
+references:
+  - type: software
+    title: "TRELLIS.2"
+    authors:
+      - name: "Microsoft"
+    url: "https://github.com/microsoft/TRELLIS.2"
+  - type: software
+    title: "DINOv3"
+    authors:
+      - name: "Meta AI"
+    url: "https://github.com/facebookresearch/dinov3"
+  - type: software
+    title: "BiRefNet"
+    authors:
+      - family-names: Zheng
+        given-names: Peng
+    url: "https://github.com/ZhengPeng7/BiRefNet"
