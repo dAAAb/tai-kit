@@ -2,6 +2,10 @@
 
 **100 AI-reconstructed everyday kitchen objects · v0.1 beta · MIT**
 
+> **Full 6,281-item corpus also available on Hugging Face:**
+> [`dAAAb/tai-kit-v1`](https://huggingface.co/datasets/dAAAb/tai-kit-v1) ·
+> ~50 GB · MIT · same `tk_XXXX` IDs preserved for these 100 items.
+
 ![TAI KIT v0.1 poster](assets/v0.1/tai-kit-v0.1-poster.png)
 
 ---
@@ -184,6 +188,10 @@ Feedback welcome via GitHub issues.
 # TAI KIT（繁體中文）
 
 **100 件 AI 重建的日常廚房物件 · v0.1 beta · MIT 授權**
+
+> **完整 6,281 件版本也已在 Hugging Face 釋出：**
+> [`dAAAb/tai-kit-v1`](https://huggingface.co/datasets/dAAAb/tai-kit-v1) ·
+> ~50 GB · MIT · 這 100 件的 `tk_XXXX` ID 完全保留對應
 
 > **TAI** 取「台式」之意，**KIT** 兼指 *kitchen*（廚房）與 *kit*（工具組）。
 > 一組來自台灣廚房的物件工具包。
