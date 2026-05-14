@@ -51,6 +51,7 @@ tai-kit/
 ├── docs/
 │   ├── DISCLAIMER.md
 │   ├── METHODOLOGY.md     ← how the models were generated
+│   ├── POSTERS.md         ← canonical poster + exploration gallery
 │   └── USAGE.md           ← loading in three.js / Blender / Unity / Python
 └── assets/v0.1/
     ├── models/
@@ -58,6 +59,7 @@ tai-kit/
     │   ├── cup/tk_0007.glb
     │   └── ... (organized by category)
     ├── previews/          ← reference renders
+    ├── posters/           ← exploration poster gallery (see docs/POSTERS.md)
     ├── metadata.json      ← all item metadata, flat array
     └── tai-kit-v0.1-poster.png
 ```
@@ -82,6 +84,17 @@ PY
 See [`docs/USAGE.md`](docs/USAGE.md) for three.js, Blender, and Unity
 examples, plus `jq` queries for filtering by category, material, or
 face count.
+
+---
+
+## Posters
+
+The canonical A0 release poster lives at
+[`assets/v0.1/tai-kit-v0.1-poster.png`](assets/v0.1/tai-kit-v0.1-poster.png).
+A gallery of 14 exploration variants (different rotations, full-mesh vs
+sub-sampled, color and mono) is documented in
+[`docs/POSTERS.md`](docs/POSTERS.md). All artwork is MIT licensed and A0
+print-ready.
 
 ---
 
@@ -185,6 +198,13 @@ metadata。
 
 載入方式請參考 [`docs/USAGE.md`](docs/USAGE.md)，支援 three.js / Blender /
 Unity / Python（trimesh）。
+
+## 海報
+
+主視覺海報在
+[`assets/v0.1/tai-kit-v0.1-poster.png`](assets/v0.1/tai-kit-v0.1-poster.png)，
+另有 14 張設計探索版本（不同旋轉、full-mesh、color/mono）收錄於
+[`docs/POSTERS.md`](docs/POSTERS.md)。皆為 A0 印刷尺寸、MIT 授權。
 
 ## 授權
 
